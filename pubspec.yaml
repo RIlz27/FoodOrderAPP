@@ -1,0 +1,49 @@
+name: latihan_1
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+  d_info: ^0.2.2
+  flutter:
+    sdk: flutter
+  gap: ^3.0.1
+  get: ^4.6.6
+  zoom_tap_animation: ^1.1.0
+
+dev_dependencies:
+  flutter_lints: ^3.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  fonts:
+    - family: MyFont
+      fonts:
+        - asset: assets/Font/Poppins-SemiBold.ttf
+
+  assets:
+    - assets/foto.jpeg
+    - assets/icon rev.png
+    - assets/Nasi Goreng.jpeg
+    - assets/burger.jpeg
+    - assets/sangu (1).jpeg
+    - assets/hotdog.jpeg
+    - assets/Joker.jpg
+    - assets/MU.jpg
+    - assets/The Lord Of The Rings.jpg
+    - assets/Agatha.jpg
+    - assets/SUMALA.jpg
+    - assets/the boys.jpg
+    - assets/deadpool.jpeg
+    - assets/BEET.jpg
+    - assets/Pizza.jpeg
+    - assets/Kentang.jpeg
+    - assets/dapur.jpg
+    - assets/ahay.jpg
+    - assets/rilzy.jpg
